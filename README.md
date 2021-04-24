@@ -13,13 +13,19 @@ it takes strings, turns them into numbers, then puts those numbers into an array
 ## how you do
 
 npm install readline
+
 node .
+
 and that's it! (but of course, why would you do this lol)
 
 ## what i do
 
 what i still have to do, cuz i didnt meet all of the requirements. 
+
 A. make it loop the same function 3 times, (for 3 different tasters) 
+
 B. make it add the results of the other 2 tasters into an array then sort that array
+
 C. error handling (mainly if they dont add a number, or if one number is equal to another) 
+
 D. get some gosh darn sleep because you're writing out this readme.md at 1:07 AM!
